@@ -15,7 +15,7 @@ KAWA_WORKSPACE=<THE WORKSPACE ID>
 Here is an example:
 
 ```bash
-KAWA_API_URL=http://trial.kawa.ai
+KAWA_API_URL=https://wayne.kawa.ai
 KAWA_API_KEY=dsf4wFsrstgrsRSGrssrrghrts
 KAWA_WORKSPACE=1
 ```
