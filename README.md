@@ -20,6 +20,8 @@ KAWA_API_KEY=dsf4wFsrstgrsRSGrssrrghrts
 KAWA_WORKSPACE=1
 ```
 
+In order to obtain a valid KAWA_API_KEY, 
+please refer https://docs.kawa.ai/python-api-for-data-analytics#cc5a769295544645891e469c2c30ee81: Retrieve the API Key.
 
 ## 2 Install the kywy package
 
